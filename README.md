@@ -7,20 +7,19 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudipta-9&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudipta-9&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" /></a>
-</p>
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sudipta-9&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+</div>
 
 ---
 
 ### 🚀 About Me:
 - 🔭 I’m currently working on **[Smart Education System](https://github.com/sudipta-9/Smart-Education-System)**  
 - 🌱 I’m currently learning **AI Tools, Machine Learning, Backend Development**  
-- 📫 Reach me at **dsudipta891@gmail.com**  
+- 📫 Reach me at **dsudipta891@gmail.com**
+ <img src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1738195200&v=beta&t=TChlwHJJq0XLxnMIkD3rgJ-2RtsqqsO7_bKnuYFlI8Y" alt="Programmer GIF" width="400" align="right" />
 
 ---
 
@@ -132,5 +131,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sudipta-9&theme=onestar&margin-w=10&margin-h=15&column=5" alt="GitHub Trophies"/>
   </a>
 </p>
-
----
