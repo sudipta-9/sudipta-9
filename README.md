@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Banner GIF" width="60%" style="border-radius: 10px;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Banner GIF" width="100%" style="border-radius: 10px;"/>
 </p>
 
 ---
