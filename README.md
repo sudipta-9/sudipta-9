@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **[Smart Education System](https://github.com/sudipta-9/Smart-Education-System)**  
 - 🌱 I’m currently learning **AI Tools, Machine Learning, Backend Development**  
 - 📫 Reach me at **dsudipta891@gmail.com**
- <img src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1738195200&v=beta&t=TChlwHJJq0XLxnMIkD3rgJ-2RtsqqsO7_bKnuYFlI8Y" alt="Programmer GIF" width="400" align="right" />
+ <img src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif" alt="Programmer GIF" width="400" align="right" />
 
 ---
 
