@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sudipta Kumar Das</h1>
-<h3 align="center">A Full Stack Developer from India</h3>
+<h3 align="center">A Full Stack Developer & Data Analytics from India</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Banner GIF" width="100%" style="border-radius: 10px;"/>
@@ -39,12 +39,6 @@
 
 #### Programming Languages
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a> &nbsp
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a> &nbsp
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a> &nbsp
@@ -105,6 +99,28 @@
   </a> &nbsp
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
+  </a>
+</p>
+
+#### 📊 Data Analytics Tools
+<p align="left">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
+  </a> &nbsp
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
+  </a> &nbsp
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40" />
+  </a> &nbsp
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="100" height="40" />
+  </a> &nbsp
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40" />
+  </a> &nbsp
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40" />
   </a>
 </p>
 
